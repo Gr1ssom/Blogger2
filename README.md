@@ -27,7 +27,7 @@ Tech Blog is a full-stack web application built using Node.js, Express.js, Handl
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/tech-blog.git
+   git clone https://github.com/Gr1ssom/Blogger2
 
 2. Install the required dependencies:
 
